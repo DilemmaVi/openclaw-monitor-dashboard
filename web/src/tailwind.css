@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* 额外的小增强 */
+:root {
+  color-scheme: dark;
+}

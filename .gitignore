@@ -1,0 +1,21 @@
+# deps
+node_modules/
+
+# build
+**/dist/
+**/.turbo/
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# env
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# app data
+/data/
